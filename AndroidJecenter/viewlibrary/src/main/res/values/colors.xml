@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="color_bg_yellow">#fdfa1f</color>
+    <color name="color_FFFFFF">#ffffff</color>
+    <color name="color_bg_red">#f10909</color>
+
+    <color name="color_F9B5BC">#F9B5BC</color>
+    <color name="color_000000">#000000</color>
+    <color name="color_4D000000">#4D000000</color>
+    <color name="color_494846">#494846</color>
+
+    <color name="model_title">#FF323232</color>
+    <color name="model_sub_title">#FF969696</color>
+
+    <color name="default_shadow_color">#88757575</color>
+    <color name="default_fill_color">#ffffff</color>
+
+    <color name="blue_dark">#ff1976d1</color>
+    <color name="blue">#ff2195f2</color>
+    <color name="background">#ff333333</color>
+    <color name="shadow">#AA000000</color>
+    <color name="shadow_pp">#19000000</color>
+</resources>
